@@ -8,10 +8,10 @@ public class SqlAccess
 {
 	public static MySqlConnection dbConnection;
 	
-	static string host = "3.92.135.74";
-	static string port = "3306";
-	static string username = "root";
-	static string pwd = "Haisec2022??";
+	static string host = "your_host";
+	static string port = "your_port";
+	static string username = "your_username";
+	static string pwd = "your_password";
 	static string database = "mysql_test";
 
 	public SqlAccess()
